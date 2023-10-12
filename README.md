@@ -1,7 +1,7 @@
-This repo contains both final projects for the Intro to Programming class at NOVA SST 2022/2023.
+This repo contains both final projects for the Object-Oriented Programming class at NOVA SST 2022/2023.
 
-They are both based on the board game "Game of Life", or "Jogo da Glória", as it's known in Portugal.
+The first is a 1984-like surveillance system called "Gossip", and the second is a movie reviewing platform.
 
-Both projects had a two-week deadline. The first project was made by me and the second one was made in tandem with @R-Bartmoss.
+Both projects had a two-week deadline and were made in tandem with @R-Bartmoss.
 
 The language used was Java.
