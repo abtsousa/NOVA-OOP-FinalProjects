@@ -1,0 +1,68 @@
+landmark 10 landmark1
+sealed sealed1
+sealed sealed2
+sealed sealed3
+go sealed1
+landmark1
+go sealed2
+landmark1
+go sealed3
+landmark1
+join sealed1
+sealed2
+start sealed1
+1
+sealed1
+A
+start sealed1
+2
+sealed1
+sealed2
+B
+start sealed1
+1
+sealed3
+C
+start sealed1
+2
+sealed1
+sealed3
+D
+start sealed1
+2
+sealed1
+sealed2
+E
+infotainment sealed1
+infotainment sealed2
+infotainment sealed3
+start sealed2
+2
+sealed2
+sealed1
+AA
+start sealed2
+3
+sealed1
+sealed2
+sealed3
+BB
+infotainment sealed1
+infotainment sealed2
+infotainment sealed3
+gossip sealed1
+gossip sealed1
+gossip sealed1
+infotainment sealed1
+infotainment sealed2
+infotainment sealed3
+gossip sealed3
+infotainment sealed1
+infotainment sealed2
+infotainment sealed3
+gossip sealed2
+infotainment sealed1
+infotainment sealed2
+infotainment sealed3
+people
+exit

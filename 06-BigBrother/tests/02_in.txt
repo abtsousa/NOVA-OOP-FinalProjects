@@ -1,0 +1,14 @@
+landmarks
+landmark 100 Coffee Shop
+landmarks
+landmark 20 Coffee shop
+landmarks
+landmark 23 Library
+landmark 203 Park
+landmark 42 Lovely Swimming Pool
+landmark 34 Really Fancy Garden with loads of bees
+landmark 47 Slow Wing festival
+landmark 50080 Super cool place
+landmark 450 school
+landmarks
+exit

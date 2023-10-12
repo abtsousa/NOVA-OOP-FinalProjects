@@ -1,0 +1,43 @@
+This community does not have any people yet!
+Dory can only remember up to 4 gossips.
+Dory at home knows 0 gossips.
+Dory already exists!
+Freddy Balcony can only remember up to 2 gossips.
+Dory already exists!
+Freddy Balcony already exists!
+Invalid gossips capacity -1!
+Invalid gossips capacity 0!
+Jason Bourne can only remember up to 6 gossips.
+Jason Bourne already exists!
+Invalid gossips capacity -200!
+Dory at home knows 0 gossips.
+Freddy Balcony at home knows 0 gossips.
+Jason Bourne at home knows 0 gossips.
+Nate Archibald is a gossiper.
+Lady Whistledown is a gossiper.
+Sweetest Popcorn is a gossiper.
+Lady Whistledown already exists!
+Dory already exists!
+Dory at home knows 0 gossips.
+Freddy Balcony at home knows 0 gossips.
+Jason Bourne at home knows 0 gossips.
+Nate Archibald at home knows 0 gossips.
+Lady Whistledown at home knows 0 gossips.
+Sweetest Popcorn at home knows 0 gossips.
+Judy Hale lips are sealed.
+Liza Miller lips are sealed.
+Lady Whistledown already exists!
+Jason Bourne already exists!
+Will Benson is a gossiper.
+Julie James lips are sealed.
+Dory at home knows 0 gossips.
+Freddy Balcony at home knows 0 gossips.
+Jason Bourne at home knows 0 gossips.
+Nate Archibald at home knows 0 gossips.
+Lady Whistledown at home knows 0 gossips.
+Sweetest Popcorn at home knows 0 gossips.
+Judy Hale at home knows 0 gossips.
+Liza Miller at home knows 0 gossips.
+Will Benson at home knows 0 gossips.
+Julie James at home knows 0 gossips.
+Bye!

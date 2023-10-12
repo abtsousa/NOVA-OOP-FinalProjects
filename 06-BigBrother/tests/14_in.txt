@@ -1,0 +1,74 @@
+landmark 10 landmark1
+gossiper gossiper1
+gossiper gossiper2
+go gossiper1
+landmark1
+go gossiper2
+landmark1
+join gossiper1
+gossiper2
+start gossiper1
+1
+gossiper1
+A
+start gossiper1
+1
+gossiper1
+B
+start gossiper1
+1
+gossiper1
+C
+start gossiper1
+1
+gossiper1
+D
+start gossiper1
+1
+gossiper1
+E
+start gossiper1
+1
+gossiper1
+F
+start gossiper1
+1
+gossiper1
+G
+start gossiper1
+1
+gossiper1
+H
+start gossiper1
+1
+gossiper1
+I
+infotainment gossiper1
+infotainment gossiper2
+gossip gossiper1
+start gossiper1
+1
+gossiper1
+J
+infotainment gossiper1
+infotainment gossiper2
+start gossiper2
+2
+gossiper2
+gossiper1
+AA
+infotainment gossiper1
+infotainment gossiper2
+gossip gossiper2
+infotainment gossiper1
+infotainment gossiper2
+gossip gossiper2
+infotainment gossiper1
+infotainment gossiper2
+gossip gossiper1
+gossip gossiper1
+infotainment gossiper2
+gossip gossiper1
+infotainment gossiper1
+infotainment gossiper2
+exit

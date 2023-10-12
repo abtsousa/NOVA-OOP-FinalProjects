@@ -1,0 +1,11 @@
+landmark -230 Escape Room
+landmark -1 Small escape room
+landmark 0 Really tight room
+landmark 1 Lonely place
+landmark 2 Honeymoon suite
+landmark 10 Honeymoon suite
+landmark 3 Home
+landmark 4 home
+landmark 2 HOME
+landmarks
+exit

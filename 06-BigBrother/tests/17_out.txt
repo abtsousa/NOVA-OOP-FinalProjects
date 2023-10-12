@@ -1,0 +1,133 @@
+Bar added.
+Restaurant added.
+Forgetful One can only remember up to 3 gossips.
+Forgetful Other can only remember up to 2 gossips.
+Sealed Lower Lip lips are sealed.
+Sealed Upper Lip lips are sealed.
+Gossiper The First is a gossiper.
+Gossiper The Second is a gossiper.
+Gossiper The Third is a gossiper.
+Forgetful One is now at Bar.
+Forgetful Other is now at Bar.
+Sealed Lower Lip is now at Bar.
+Sealed Upper Lip is now at Restaurant.
+Gossiper The First is now at Restaurant.
+Gossiper The Second is now at Bar.
+Forgetful One joined Forgetful Other, at the Bar.
+Lower Lip does not exist!
+Sealed Upper Lip joined Gossiper The First, at the Restaurant.
+3 groups at Bar:
+Forgetful Other, Forgetful One
+Sealed Lower Lip
+Gossiper The Second
+1 groups at Restaurant:
+Gossiper The First, Sealed Upper Lip
+Forgetful One at Bar knows 0 gossips.
+Forgetful Other at Bar knows 0 gossips.
+Sealed Lower Lip at Bar knows 0 gossips.
+Sealed Upper Lip at Restaurant knows 0 gossips.
+Gossiper The First at Restaurant knows 0 gossips.
+Gossiper The Second at Bar knows 0 gossips.
+Gossiper The Third at home knows 0 gossips.
+No gossips we are aware of!
+Have you heard about Forgetful Other, Forgetful One? A (Forgetful One)
+Here is what we know about Forgetful One:
+1 A (Forgetful One)
+Here is what we know about Forgetful Other:
+1 A (Forgetful One)
+Forgetful One shared with Forgetful Other, some hot news!
+A (Forgetful One)
+Sealed Lower Lip joined Forgetful Other, Forgetful One, at the Bar.
+The hottest gossips were shared 1 times!
+A (Forgetful One)
+Have you heard about Forgetful One, Sealed Lower Lip? A (Forgetful Other)
+Have you heard about Forgetful One, Sealed Lower Lip? B (Forgetful Other)
+Have you heard about Forgetful One, Sealed Lower Lip? C (Forgetful Other)
+Forgetful One at Bar knows 1 gossips.
+Forgetful Other at Bar knows 2 gossips.
+Sealed Lower Lip at Bar knows 0 gossips.
+Sealed Upper Lip at Restaurant knows 0 gossips.
+Gossiper The First at Restaurant knows 0 gossips.
+Gossiper The Second at Bar knows 0 gossips.
+Gossiper The Third at home knows 0 gossips.
+Forgetful One knows things:
+A (Forgetful One)
+Forgetful Other knows things:
+B (Forgetful Other)
+C (Forgetful Other)
+The hottest gossips were shared 1 times!
+A (Forgetful One)
+Have you heard about Forgetful Other, Forgetful One? B (Forgetful One)
+Have you heard about Forgetful Other, Forgetful One? C (Forgetful One)
+Have you heard about Forgetful Other, Forgetful One? D (Forgetful One)
+Forgetful One at Bar knows 3 gossips.
+Forgetful Other at Bar knows 2 gossips.
+Sealed Lower Lip at Bar knows 0 gossips.
+Sealed Upper Lip at Restaurant knows 0 gossips.
+Gossiper The First at Restaurant knows 0 gossips.
+Gossiper The Second at Bar knows 0 gossips.
+Gossiper The Third at home knows 0 gossips.
+Forgetful One knows things:
+B (Forgetful One)
+C (Forgetful One)
+D (Forgetful One)
+Forgetful Other knows things:
+B (Forgetful Other)
+C (Forgetful Other)
+No gossips were shared, yet!
+Have you heard about Sealed Upper Lip, Forgetful One? A (Sealed Lower Lip)
+Have you heard about Sealed Lower Lip, Forgetful One? B (Sealed Lower Lip)
+Gossiper The Second joined Forgetful Other, Forgetful One, Sealed Lower Lip, at the Bar.
+Sealed Lower Lip shared with Forgetful Other, Forgetful One, Gossiper The Second, some hot news!
+B (Sealed Lower Lip)
+Sealed Lower Lip knows things:
+A (Sealed Lower Lip)
+B (Sealed Lower Lip)
+Forgetful One knows things:
+C (Forgetful One)
+D (Forgetful One)
+B (Sealed Lower Lip)
+Forgetful Other knows things:
+C (Forgetful Other)
+B (Sealed Lower Lip)
+Gossiper The Second is now at Restaurant.
+Gossiper The Second joined Gossiper The First, Sealed Upper Lip, at the Restaurant.
+Gossiper The Second shared with Gossiper The First, Sealed Upper Lip, some hot news!
+B (Sealed Lower Lip)
+Gossiper The First knows things:
+B (Sealed Lower Lip)
+Gossiper The Second knows things:
+B (Sealed Lower Lip)
+Gossiper The Third knows nothing!
+Have you heard about Gossiper The Second? A (Gossiper The First)
+Have you heard about Gossiper The Second? B (Gossiper The Second)
+Have you heard about Sealed Lower Lip, Sealed Upper Lip? C (Gossiper The Second)
+Gossiper The First lives a very boring life!
+Here is what we know about Gossiper The Second:
+1 A (Gossiper The First)
+1 B (Gossiper The Second)
+Gossiper The Third lives a very boring life!
+Here is what we know about Sealed Lower Lip:
+1 C (Forgetful Other)
+6 B (Sealed Lower Lip)
+1 C (Gossiper The Second)
+Here is what we know about Sealed Upper Lip:
+1 A (Sealed Lower Lip)
+1 C (Gossiper The Second)
+Here is what we know about Forgetful One:
+1 C (Forgetful Other)
+1 C (Forgetful One)
+1 D (Forgetful One)
+1 A (Sealed Lower Lip)
+6 B (Sealed Lower Lip)
+Here is what we know about Forgetful Other:
+1 C (Forgetful One)
+1 D (Forgetful One)
+Forgetful One at Bar knows 3 gossips.
+Forgetful Other at Bar knows 2 gossips.
+Sealed Lower Lip at Bar knows 2 gossips.
+Sealed Upper Lip at Restaurant knows 1 gossips.
+Gossiper The First at Restaurant knows 3 gossips.
+Gossiper The Second at Restaurant knows 2 gossips.
+Gossiper The Third at home knows 0 gossips.
+Bye!

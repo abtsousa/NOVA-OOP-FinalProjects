@@ -1,0 +1,126 @@
+landmark 10 Bar
+landmark 12 Restaurant
+forgetful 3 Forgetful One
+forgetful 2 Forgetful Other
+sealed Sealed Lower Lip
+sealed Sealed Upper Lip
+gossiper Gossiper The First
+gossiper Gossiper The Second
+gossiper Gossiper The Third
+go Forgetful One
+Bar
+go Forgetful Other
+Bar
+go Sealed Lower Lip
+Bar
+go Sealed Upper Lip
+Restaurant
+go Gossiper The First
+Restaurant
+go Gossiper The Second
+Bar
+join Forgetful One
+Forgetful Other
+join Lower Lip
+Forgetful Other
+join Sealed Upper Lip
+Gossiper The First
+groups Bar
+groups Restaurant
+people
+hottest
+start Forgetful One
+2
+Forgetful Other
+Forgetful One
+A (Forgetful One)
+secrets Forgetful One
+secrets Forgetful Other
+gossip Forgetful One
+join Sealed Lower Lip
+Forgetful Other
+hottest
+start Forgetful Other
+2
+Forgetful One
+Sealed Lower Lip
+A (Forgetful Other)
+start Forgetful Other
+2
+Forgetful One
+Sealed Lower Lip
+B (Forgetful Other)
+start Forgetful Other
+2
+Forgetful One
+Sealed Lower Lip
+C (Forgetful Other)
+people
+infotainment Forgetful One
+infotainment Forgetful Other
+hottest
+start Forgetful One
+2
+Forgetful Other
+Forgetful One
+B (Forgetful One)
+start Forgetful One
+2
+Forgetful Other
+Forgetful One
+C (Forgetful One)
+start Forgetful One
+2
+Forgetful Other
+Forgetful One
+D (Forgetful One)
+people
+infotainment Forgetful One
+infotainment Forgetful Other
+hottest
+start Sealed Lower Lip
+2
+Sealed Upper Lip
+Forgetful One
+A (Sealed Lower Lip)
+start Sealed Lower Lip
+2
+Sealed Lower Lip
+Forgetful One
+B (Sealed Lower Lip)
+join Gossiper The Second
+Forgetful One
+gossip Sealed Lower Lip
+infotainment Sealed Lower Lip
+infotainment Forgetful One
+infotainment Forgetful Other
+go Gossiper The Second
+Restaurant
+join Gossiper The Second
+Gossiper The First
+gossip Gossiper The Second
+infotainment Gossiper The First
+infotainment Gossiper The Second
+infotainment Gossiper The Third
+start Gossiper The First
+1
+Gossiper The Second
+A (Gossiper The First)
+start Gossiper The First
+1
+Gossiper The Second
+B (Gossiper The Second)
+start Gossiper The Second
+2
+Sealed Lower Lip
+Sealed Upper Lip
+C (Gossiper The Second)
+secrets Gossiper The First
+secrets Gossiper The Second
+secrets Gossiper The Third
+secrets Sealed Lower Lip
+secrets Sealed Upper Lip
+secrets Forgetful One
+secrets Forgetful Other
+people
+exit

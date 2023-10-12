@@ -1,0 +1,88 @@
+landmark 2 tree
+forgetful 4 Mercutio
+forgetful 1 Friar Lawrence
+landmark 6 Balcony of Casa di Giulietta
+landmark 8 Capulet orchard
+landmark 7 Romeo and Juliet's tomb
+landmark 5 Capulet mansion
+sealed Romeo Montague
+sealed Juliet Capulet
+gossiper William Shakespeare
+infotainment Mercutio
+go Romeo Montague
+tree
+go Juliet Capulet
+tree
+people
+start Mercutio
+2
+Romeo Montague
+Juliet Capulet
+Romeo and Juliet, sitting on a tree, K I S S I N G! :-)
+people
+start Mercutio
+2
+Juliet Capulet
+Romeo Montague
+Juliet and Romeo, r in luv!
+start Mercutio
+0
+thus with a kiss I die
+start Mercutio
+-1
+Good night, good night! parting is such sweet sorrow, That I shall say good night till it be morrow.
+start Mercutio
+2
+Romeu Montargil
+Juliet Capulet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start Mercutio
+2
+Romeu Montague
+Julieta Capilet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Romeo Montague
+Julieta Capilet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start Mercutio
+2
+Romeo Montague
+Juliet Capulet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start Mercutio
+2
+Juliet Capulet
+Romeo Montague
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+infotainment Mercutio
+start Friar Lawrence
+1
+Juliet Capulet
+Juliet is not really dead, she is just sleeping.
+infotainment Friar Lawrence
+start Friar Lawrence
+1
+William Shakespeare
+Rumor has it that William Shakespeare is a gossiper.
+infotainment Friar Lawrence
+start Mercutio
+2
+Romeo Montague
+Juliet Capulet
+In the name of love! What is love? A madness most discreet, A choking gall and a preserving sweet.
+infotainment Mercutio
+start Mercutio
+1
+Juliet Capulet
+Oh Juliet, I love you!
+infotainment Mercutio
+start Mercutio
+2
+Juliet Capulet
+Romeo Montague
+My love, Romeo!
+people
+infotainment Mercutio
+exit

@@ -1,0 +1,86 @@
+landmark1 added.
+sealed1 lips are sealed.
+sealed2 lips are sealed.
+sealed3 lips are sealed.
+sealed1 is now at landmark1.
+sealed2 is now at landmark1.
+sealed3 is now at landmark1.
+sealed1 joined sealed2, at the landmark1.
+Have you heard about sealed1? A
+Have you heard about sealed1, sealed2? B
+Have you heard about sealed3? C
+Have you heard about sealed1, sealed3? D
+Have you heard about sealed1, sealed2? E
+sealed1 knows things:
+A
+B
+C
+D
+E
+sealed2 knows nothing!
+sealed3 knows nothing!
+Have you heard about sealed2, sealed1? AA
+Have you heard about sealed1, sealed2, sealed3? BB
+sealed1 knows things:
+A
+B
+C
+D
+E
+sealed2 knows things:
+AA
+BB
+sealed3 knows nothing!
+sealed1 shared with sealed2, some hot news!
+A
+sealed1 shared with sealed2, some hot news!
+B
+sealed1 shared with sealed2, some hot news!
+D
+sealed1 knows things:
+E
+A
+B
+C
+D
+sealed2 knows things:
+AA
+BB
+A
+B
+D
+sealed3 knows nothing!
+sealed3 has nobody to gossip with right now!
+sealed1 knows things:
+E
+A
+B
+C
+D
+sealed2 knows things:
+AA
+BB
+A
+B
+D
+sealed3 knows nothing!
+sealed2 shared with sealed1, some hot news!
+AA
+sealed1 knows things:
+E
+AA
+A
+B
+C
+D
+sealed2 knows things:
+BB
+A
+B
+D
+AA
+sealed3 knows nothing!
+sealed1 at landmark1 knows 6 gossips.
+sealed2 at landmark1 knows 5 gossips.
+sealed3 at landmark1 knows 0 gossips.
+Bye!

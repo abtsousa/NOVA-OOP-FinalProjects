@@ -1,0 +1,27 @@
+people
+forgetful 4 Dory
+people
+forgetful 3 Dory
+forgetful 2 Freddy Balcony
+forgetful 3 Dory
+forgetful 2 Freddy Balcony
+forgetful -1 Jason Bourne
+forgetful 0 Jason Bourne
+forgetful 6 Jason Bourne
+forgetful 8 Jason Bourne
+forgetful -200 Jason Bourne
+people
+gossiper Nate Archibald
+gossiper Lady Whistledown
+gossiper Sweetest Popcorn
+gossiper Lady Whistledown
+gossiper Dory
+people
+sealed Judy Hale
+sealed Liza Miller
+sealed Lady Whistledown
+sealed Jason Bourne
+gossiper Will Benson
+sealed Julie James
+people
+exit

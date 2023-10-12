@@ -1,0 +1,61 @@
+landmark 10 landmark1
+forgetful 3 forgetful1
+forgetful 5 forgetful2
+forgetful 7 forgetful3
+go forgetful1
+landmark1
+go forgetful2
+landmark1
+go forgetful3
+landmark1
+join forgetful1
+forgetful2
+start forgetful1
+1
+forgetful1
+A
+start forgetful1
+1
+forgetful1
+B
+start forgetful1
+1
+forgetful1
+C
+start forgetful1
+1
+forgetful1
+D
+start forgetful1
+1
+forgetful1
+E
+infotainment forgetful1
+infotainment forgetful2
+start forgetful2
+2
+forgetful2
+forgetful1
+AA
+infotainment forgetful1
+infotainment forgetful2
+gossip forgetful2
+infotainment forgetful1
+infotainment forgetful2
+gossip forgetful1
+infotainment forgetful1
+infotainment forgetful2
+gossip forgetful1
+infotainment forgetful1
+infotainment forgetful2
+gossip forgetful1
+gossip forgetful1
+infotainment forgetful1
+infotainment forgetful2
+join forgetful1
+forgetful3
+gossip forgetful1
+infotainment forgetful1
+infotainment forgetful2
+infotainment forgetful3
+exit

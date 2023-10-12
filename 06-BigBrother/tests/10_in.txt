@@ -1,0 +1,74 @@
+landmark 2 tree
+forgetful 4 Mercutio
+landmark 6 Balcony of Casa di Giulietta
+landmark 8 Capulet orchard
+landmark 7 Romeo and Juliet's tomb
+landmark 5 Capulet mansion
+sealed Romeo Montague
+sealed Juliet Capulet
+gossiper William Shakespeare
+infotainment William Shakespeare
+infotainment William Milkshakespeare
+go Romeo Montague
+tree
+go Juliet Capulet
+tree
+people
+start William Shakespeare
+2
+Romeo Montague
+Juliet Capulet
+Romeo and Juliet, sitting on a tree, K I S S I N G! :-)
+people
+start William Milkshakespeare
+2
+Juliet Capulet
+Romeo Montague
+Juliet and Romeo, r in luv!
+start Romeo Montague
+0
+thus with a kiss I die
+start Juliet Capulet
+-1
+Good night, good night! parting is such sweet sorrow, That I shall say good night till it be morrow.
+start William Shakespeare
+2
+Romeu Montargil
+Juliet Capulet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Romeu Montague
+Julieta Capilet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Romeo Montague
+Julieta Capilet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Romeo Montague
+Juliet Capulet
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Juliet Capulet
+Romeo Montague
+These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.
+start William Shakespeare
+2
+Romeo Montague
+Juliet Capulet
+In the name of love! What is love? A madness most discreet, A choking gall and a preserving sweet.
+start Romeo Montague
+1
+Juliet Capulet
+Oh Juliet, I love you!
+start Juliet Capulet
+1
+Juliet Capulet
+My love, Romeo!
+people
+infotainment William Shakespeare
+exit

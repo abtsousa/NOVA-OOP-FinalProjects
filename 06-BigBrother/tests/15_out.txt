@@ -1,0 +1,78 @@
+landmark1 added.
+forgetful1 can only remember up to 3 gossips.
+forgetful2 can only remember up to 5 gossips.
+forgetful3 can only remember up to 7 gossips.
+forgetful1 is now at landmark1.
+forgetful2 is now at landmark1.
+forgetful3 is now at landmark1.
+forgetful1 joined forgetful2, at the landmark1.
+Have you heard about forgetful1? A
+Have you heard about forgetful1? B
+Have you heard about forgetful1? C
+Have you heard about forgetful1? D
+Have you heard about forgetful1? E
+forgetful1 knows things:
+C
+D
+E
+forgetful2 knows nothing!
+Have you heard about forgetful2, forgetful1? AA
+forgetful1 knows things:
+C
+D
+E
+forgetful2 knows things:
+AA
+forgetful2 shared with forgetful1, some hot news!
+AA
+forgetful1 knows things:
+D
+E
+AA
+forgetful2 knows things:
+AA
+forgetful1 shared with forgetful2, some hot news!
+D
+forgetful1 knows things:
+E
+AA
+D
+forgetful2 knows things:
+AA
+D
+forgetful1 shared with forgetful2, some hot news!
+E
+forgetful1 knows things:
+AA
+D
+E
+forgetful2 knows things:
+AA
+D
+E
+forgetful1 shared with forgetful2, some hot news!
+AA
+forgetful1 shared with forgetful2, some hot news!
+D
+forgetful1 knows things:
+E
+AA
+D
+forgetful2 knows things:
+AA
+D
+E
+forgetful1 joined forgetful3, at the landmark1.
+forgetful1 shared with forgetful3, some hot news!
+D
+forgetful1 knows things:
+E
+AA
+D
+forgetful2 knows things:
+AA
+D
+E
+forgetful3 knows things:
+D
+Bye!

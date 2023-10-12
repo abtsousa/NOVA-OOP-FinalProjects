@@ -1,0 +1,152 @@
+landmark1 added.
+gossiper1 is a gossiper.
+gossiper2 is a gossiper.
+gossiper1 is now at landmark1.
+gossiper2 is now at landmark1.
+gossiper1 joined gossiper2, at the landmark1.
+Have you heard about gossiper1? A
+Have you heard about gossiper1? B
+Have you heard about gossiper1? C
+Have you heard about gossiper1? D
+Have you heard about gossiper1? E
+Have you heard about gossiper1? F
+Have you heard about gossiper1? G
+Have you heard about gossiper1? H
+Have you heard about gossiper1? I
+gossiper1 knows things:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+gossiper2 knows nothing!
+gossiper1 shared with gossiper2, some hot news!
+A
+B
+C
+Have you heard about gossiper1? J
+gossiper1 knows things:
+D
+E
+F
+G
+H
+I
+J
+A
+B
+C
+gossiper2 knows things:
+A
+B
+C
+Have you heard about gossiper2, gossiper1? AA
+gossiper1 knows things:
+D
+E
+F
+G
+H
+I
+J
+A
+B
+C
+gossiper2 knows things:
+A
+B
+C
+AA
+gossiper2 shared with gossiper1, some hot news!
+A
+B
+C
+gossiper1 knows things:
+D
+E
+F
+G
+H
+I
+J
+A
+B
+C
+gossiper2 knows things:
+AA
+A
+B
+C
+gossiper2 shared with gossiper1, some hot news!
+AA
+A
+B
+gossiper1 knows things:
+D
+E
+F
+G
+H
+I
+J
+AA
+A
+B
+C
+gossiper2 knows things:
+C
+AA
+A
+B
+gossiper1 shared with gossiper2, some hot news!
+D
+E
+F
+gossiper1 shared with gossiper2, some hot news!
+G
+H
+I
+gossiper2 knows things:
+C
+AA
+D
+E
+F
+G
+H
+I
+A
+B
+gossiper1 shared with gossiper2, some hot news!
+J
+AA
+A
+gossiper1 knows things:
+B
+C
+D
+E
+F
+G
+H
+I
+J
+AA
+A
+gossiper2 knows things:
+C
+AA
+D
+E
+F
+G
+H
+I
+J
+A
+B
+Bye!

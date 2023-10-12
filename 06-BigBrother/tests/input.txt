@@ -1,0 +1,127 @@
+landmark 10 Bar
+landmark 12 Restaurant
+forgetful 3 Afonso
+forgetful 2 Cristóvão
+sealed Mudo
+sealed Muda
+gossiper tagarela
+gossiper tegarela
+gossiper tigarela
+go Afonso
+Bar
+go Cristóvão
+Bar
+go Mudo
+Bar
+go Muda
+Restaurant
+go tagarela
+Restaurant
+go tegarela
+Bar
+join Afonso
+Cristóvão
+join Lower Lip
+Cristóvão
+join Muda
+tagarela
+groups Bar
+groups Restaurant
+people
+hottest
+start Afonso
+2
+Cristóvão
+Afonso
+A (Afonso)
+isolate Muda
+secrets Afonso
+secrets Cristóvão
+gossip Afonso
+join Mudo
+Cristóvão
+hottest
+start Cristóvão
+2
+Afonso
+Mudo
+A (Cristóvão)
+start Cristóvão
+2
+Afonso
+Mudo
+B (Cristóvão)
+start Cristóvão
+2
+Afonso
+Mudo
+C (Cristóvão)
+people
+infotainment Afonso
+infotainment Cristóvão
+hottest
+start Afonso
+2
+Cristóvão
+Afonso
+B (Afonso)
+start Afonso
+2
+Cristóvão
+Afonso
+C (Afonso)
+start Afonso
+2
+Cristóvão
+Afonso
+D (Afonso)
+people
+infotainment Afonso
+infotainment Cristóvão
+hottest
+start Mudo
+2
+Muda
+Afonso
+A (Mudo)
+start Mudo
+2
+Mudo
+Afonso
+B (Mudo)
+join tegarela
+Afonso
+gossip Mudo
+infotainment Mudo
+infotainment Afonso
+infotainment Cristóvão
+go tegarela
+Restaurant
+join tegarela
+tagarela
+gossip tegarela
+infotainment tagarela
+infotainment tegarela
+infotainment tigarela
+start tagarela
+1
+tegarela
+A (tagarela)
+start tagarela
+1
+tegarela
+B (tegarela)
+start tegarela
+2
+Mudo
+Muda
+C (tegarela)
+secrets tagarela
+secrets tegarela
+secrets tigarela
+secrets Mudo
+secrets Muda
+secrets Afonso
+secrets Cristóvão
+people
+exit

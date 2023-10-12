@@ -1,0 +1,79 @@
+IMEPLEMENTAR-----------------------
+
+1. Remover métodos que devolvem strings para a Main
+2. Implementar subinterface CitizenLimitedMemory
+3. Apagar métodos não usados, modificar para private/package os necessários
+4. Apagar métodos que repetem mesma função
+5. Apagar INFINITE MEMORY e modificar interface de acordo com a mudança
+6. Mudar Array<String> para Citizen dos targets
+7. Para Sucess Messages para toString
+8. Redefinir .equals() ou .compareTo() na comparação de objetos
+9. JAVADOCar
+
+
+ITERATOR PRINT
+
+-----------------------------------
+## Objectos
+Community / community - system
+Places
+- Home
+- Landmarks
+	- Grupos
+		- People podem movimentar-se entre grupo — 3 tipos
+			- Forgetful - lembram-se de n, 1gpt (o mais antigo)
+			- Gossiper - lembram-se de todos e partilham até 3gpt em roda
+			- Sealed lips - nunca partilham excepto se sobre elas próprias (1gpt)
+- Gossips
+	- Descrição, pessoas envolvidas e a cadeia de transmissão
+
+System
+.addLandmark(capacity, name)
+.listLandmarks()
+.hasLandmark(name)
+.addPerson(type, gossips) .addPerson(type)
+.hasPerson(name)
+.listPeople()
+.movePerson(person, landmark)
+.listGroups(landmark)
+.shareGossip(person)
+Gossip .iterator()
+.listAllGossip(person)
+.listHottestGossip()
+
+Person
+Array de gossips
+Getters
+.go(landmark)
+.goHome() //se necessário
+.isHome() //se necessário
+.iterator()
+.listKnownGossip()
+
+Landmark
+Getters
+.iterator()
+.listGroups()
+groups .iterator()
+.hasPerson(person)
+.isolate(person)
+.newGroup(index)
+.deleteGroup(index)
+.addtoGroup(person1, person2)
+.startGossip(Array Pessoas, String gossip)
+.shareGossipWithGroup(gossiper)
+
+Grupo — Array de persons
+.add(person)
+.hasPerson(person)
+.iterator()
+- cada vez que uma pessoa vai para um sitio cria um grupo dela própria na landmark
+- e cada vez que uma pessoa sai do grupo, se o grupo n=0, apaga o grupo
+- Alternativa: Landmark tem array de arrays de pessoas
+
+Gossip
+Getter
+.addToChain(person)
+.countChain()
+NOTA: se nng se lembrar do gossip, ele desaparece e (caso seja o caso), perderá o rank de hottest
+NOTA:

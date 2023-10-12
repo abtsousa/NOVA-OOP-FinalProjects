@@ -1,0 +1,44 @@
+landmark 1 Lonely place
+landmark 2 Honeymoon suite
+landmark 10 Honeymoon suite
+landmark 3 Home
+landmark 2 HOME
+landmarks
+people
+forgetful 4 Dory
+forgetful 2 Freddy Balcony
+forgetful 6 Jason Bourne
+gossiper Nate Archibald
+gossiper Lady Whistledown
+gossiper Sweetest Popcorn
+sealed Judy Hale
+sealed Liza Miller
+gossiper Will Benson
+sealed Julie James
+people
+go Judy Hale
+Honeymoon suite
+go Nate Archibald
+Honeymoon suite
+go Will Benson
+Honeymoon suite
+go Freddy Balcony
+Lonely place
+join Nate Archibald
+Judy Hale
+groups Honeymoon suite
+go Judy Hale
+Lonely place
+groups Honeymoon suite
+groups Lonely place
+go Julie James
+Honeymoon suite
+groups home
+groups Honeymoon suite
+join Nate Archibald
+Julie James
+groups Honeymoon suite
+groups Lonely place
+groups HOME
+people
+exit

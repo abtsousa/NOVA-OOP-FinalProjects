@@ -1,0 +1,63 @@
+Lonely place added.
+Honeymoon suite added.
+Landmark Honeymoon suite already exists!
+Home added.
+HOME added.
+Lonely place: 1 0.
+Honeymoon suite: 2 0.
+Home: 3 0.
+HOME: 2 0.
+This community does not have any people yet!
+Dory can only remember up to 4 gossips.
+Freddy Balcony can only remember up to 2 gossips.
+Jason Bourne can only remember up to 6 gossips.
+Nate Archibald is a gossiper.
+Lady Whistledown is a gossiper.
+Sweetest Popcorn is a gossiper.
+Judy Hale lips are sealed.
+Liza Miller lips are sealed.
+Will Benson is a gossiper.
+Julie James lips are sealed.
+Dory at home knows 0 gossips.
+Freddy Balcony at home knows 0 gossips.
+Jason Bourne at home knows 0 gossips.
+Nate Archibald at home knows 0 gossips.
+Lady Whistledown at home knows 0 gossips.
+Sweetest Popcorn at home knows 0 gossips.
+Judy Hale at home knows 0 gossips.
+Liza Miller at home knows 0 gossips.
+Will Benson at home knows 0 gossips.
+Julie James at home knows 0 gossips.
+You must understand we have no surveillance tech at home! Privacy is our top concern!
+Nobody is at Honeymoon suite!
+Judy Hale is now at Honeymoon suite.
+Nate Archibald is now at Honeymoon suite.
+Honeymoon suite is too crowded! Will Benson went home.
+Freddy Balcony is now at Lonely place.
+You must understand we have no surveillance tech at home! Privacy is our top concern!
+2 groups at Honeymoon suite:
+Judy Hale
+Nate Archibald
+1 groups at Lonely place:
+Freddy Balcony
+Judy Hale is now at HOME.
+Julie James is now at Honeymoon suite.
+You must understand we have no surveillance tech at home! Privacy is our top concern!
+2 groups at Honeymoon suite:
+Nate Archibald
+Julie James
+1 groups at Lonely place:
+Freddy Balcony
+1 groups at HOME:
+Judy Hale
+Dory at home knows 0 gossips.
+Freddy Balcony at Lonely place knows 0 gossips.
+Jason Bourne at home knows 0 gossips.
+Nate Archibald at Honeymoon suite knows 0 gossips.
+Lady Whistledown at home knows 0 gossips.
+Sweetest Popcorn at home knows 0 gossips.
+Judy Hale at HOME knows 0 gossips.
+Liza Miller at home knows 0 gossips.
+Will Benson at home knows 0 gossips.
+Julie James at Honeymoon suite knows 0 gossips.
+Bye!

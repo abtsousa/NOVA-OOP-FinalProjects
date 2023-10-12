@@ -1,0 +1,59 @@
+Classes + variáveis
+
+User: username
+- CriticAccount
+- AudienceAccount
+- AdminAccount: password, showsAdded, artistsAdded
+
+artists.Artist: [[name]], date, place of birth, shows
+
+Show: [[title]], age certification, release date, genres, top cast
+- Movie: [[title]], director, duration (minutes)
+- Series: [[title]], creator, number of seasons
+
+Reviews: [[show]], [[user]], comment, classification /5
+
+Methods + exceptions
+
+- exit //exit
+- printHelp //help
+- registerUser //register
+  > InvalidUserTypeException
+  > UserAlreadyExistsException
+- listUsers -- alphabetically (TreeSet) //users
+- addMovie //movie
+  > AdminNotFoundException
+  > WrongAdminPasswordException
+  > ShowAlreadyExistsException
+- addSeries //series
+  > AdminNotFoundException
+  > WrongAdminPasswordException
+  > ShowAlreadyExistsException
+- listShows -- alphabetically (TreeMap); cast by order of insertion (ArrayList?)
+  > ShowsNotFoundException
+- addBio //artist
+  > BioAlreadyExistsException
+- listBio //credits sorted by release year (recent), then title (LinkedList?)
+  > ArtistNotFoundException
+- addReview //review
+  > UserNotFoundException
+  > UserIsAdminException
+  > ShowNotFoundException
+  > ReviewAlreadyExistsException
+- listReviews //reviews -- review of each [[show]] sorted by score and alphabetically (HashMap with TreeSet?)
+  > ReviewsNotFoundException
+  > ShowNotFoundException
+- listWithGenre //genre -- ordered by score, release date and title (TreeSet?)
+  > ShowsNotFoundException
+- listReleasedOn // released -- ordered by score and title (TreeSet?)
+  > ShowsNotFoundException
+- listAvoiders // avoiders -- Set com artistas sem colaborações com o artista X e retirar todos os que colaboraram entre si
+  -- talvez ter uma lista para cada artista com os artistas com que não colaborou
+  -- iterar as intersecções de cada lista?
+  -- 2 fases:
+    1º fazer matriz de artistas que não trabalharam em conjunto
+    2º iterar para ver se houve colaborações entre artistas dentro de cada grupo
+  > ArtistsNotFoundException
+- listFriends // friends -- hashmap com nome do artista e nº de projectos em conjunto (matriz com pares de colaboradores)
+  > ArtistsNotFoundException
+  -- o inverso do avoiders

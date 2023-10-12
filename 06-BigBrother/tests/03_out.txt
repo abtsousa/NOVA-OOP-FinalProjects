@@ -1,0 +1,14 @@
+Invalid landmark capacity -230!
+Invalid landmark capacity -1!
+Invalid landmark capacity 0!
+Lonely place added.
+Honeymoon suite added.
+Landmark Honeymoon suite already exists!
+Home added.
+Cannot create a landmark called home. You know, there is no place like home!
+HOME added.
+Lonely place: 1 0.
+Honeymoon suite: 2 0.
+Home: 3 0.
+HOME: 2 0.
+Bye!

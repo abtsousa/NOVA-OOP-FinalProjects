@@ -1,0 +1,125 @@
+landmark 1 Lonely place
+landmark 2 Honeymoon suite
+landmark 10 Honeymoon suite
+landmark 3 Home
+landmark 2 HOME
+landmark 150 High School
+landmarks
+people
+forgetful 4 Dory
+forgetful 2 Freddy Balcony
+forgetful 6 Jason Bourne
+gossiper Nate Archibald
+gossiper Lady Whistledown
+gossiper Sweetest Popcorn
+sealed Judy Hale
+sealed Liza Miller
+gossiper Will Benson
+sealed Julie James
+people
+go Judy Hale
+Honeymoon suite
+go Nate Archibald
+Honeymoon suite
+go Will Benson
+Honeymoon suite
+go Freddy Balcony
+Lonely place
+join Nate Archibald
+Judy Hale
+groups Honeymoon suite
+go Judy Hale
+Lonely place
+groups Honeymoon suite
+groups Lonely place
+go Julie James
+Honeymoon suite
+groups home
+groups Honeymoon suite
+join Nate Archibald
+Julie James
+groups Honeymoon suite
+groups Lonely place
+groups HOME
+people
+join Santa Claus
+Rudolph the Red-Nosed Reindeer
+join Santa Claus
+Santa Claus
+join Freddy Balcony
+Freddy Balcony
+join Freddy Balcony
+Santa Claus
+people
+join Judy Hale
+Freddy Balcony
+join Freddy Balcony
+Julie James
+join Liza Miller
+Will Benson
+join Julie James
+Nate Archibald
+join Nate Archibald
+Julie James
+gossiper Mr. Hauser
+gossiper Jane Hopper
+sealed Mike Wheeler
+sealed Nancy Wheeler
+gossiper Dustin Henderson
+gossiper Lucas Sinclair
+forgetful 11 Eleven
+forgetful 3 Max Mayfield
+gossiper Jonathan Byers
+go Mr. Hauser
+High School
+go Jane Hopper
+High School
+go Dustin Henderson
+High School
+go Lucas Sinclair
+High School
+go Mike Wheeler
+High School
+go Nancy Wheeler
+High School
+go Jonathan Byers
+High School
+groups High School
+join Mike Wheeler
+Jane Hopper
+join Dustin Henderson
+Mike Wheeler
+join Lucas Sinclair
+Jane Hopper
+join Jonathan Byers
+Nancy Wheeler
+groups High School
+isolate Santa Claus
+isolate Liza Miller
+isolate Mr. Hauser
+isolate Freddy Balcony
+isolate Nate Archibald
+groups Honeymoon suite
+join Nate Archibald
+Julie James
+groups Honeymoon suite
+isolate Julie James
+groups Honeymoon suite
+isolate Jane Hooper
+groups High School
+isolate Lucas Sinclair
+join Dustin Henderson
+Lucas Sinclair
+join Mike Wheeler
+Lucas Sinclair
+join Jane Hopper
+Mike Wheeler
+groups High School
+isolate Mike Wheeler
+isolate Nancy Wheeler
+join Nancy Wheeler
+Jonathan Byers
+groups High School
+people
+landmarks
+exit

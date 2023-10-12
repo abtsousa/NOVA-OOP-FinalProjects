@@ -1,0 +1,23 @@
+This community does not have any landmarks yet!
+Coffee Shop added.
+Coffee Shop: 100 0.
+Coffee shop added.
+Coffee Shop: 100 0.
+Coffee shop: 20 0.
+Library added.
+Park added.
+Lovely Swimming Pool added.
+Really Fancy Garden with loads of bees added.
+Slow Wing festival added.
+Super cool place added.
+school added.
+Coffee Shop: 100 0.
+Coffee shop: 20 0.
+Library: 23 0.
+Park: 203 0.
+Lovely Swimming Pool: 42 0.
+Really Fancy Garden with loads of bees: 34 0.
+Slow Wing festival: 47 0.
+Super cool place: 50080 0.
+school: 450 0.
+Bye!

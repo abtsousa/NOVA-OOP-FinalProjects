@@ -1,0 +1,84 @@
+landmark - adds a new landmark to the community
+landmarks - displays the list of landmarks in the community
+forgetful - adds a forgetful person to the community
+gossiper - adds a gossiper person to the community
+sealed - adds a sealed lips person to the community
+people - lists all the persons in the community
+go - moves a person to a landmark, or home
+join - joins a person to a group
+groups - lists the groups composition in a landmark
+isolate - makes a person leave the current group, but not the landmark the person is currently on
+start - starts a new gossip
+gossip - share a gossip within the current group in the current landmark
+secrets - lists the gossip about a particular person
+infotainment - lists the gossips a particular person is aware of
+hottest - lists the most shared gossip
+help - shows the available commands
+exit - terminates the execution of the program
+landmark - adds a new landmark to the community
+landmarks - displays the list of landmarks in the community
+forgetful - adds a forgetful person to the community
+gossiper - adds a gossiper person to the community
+sealed - adds a sealed lips person to the community
+people - lists all the persons in the community
+go - moves a person to a landmark, or home
+join - joins a person to a group
+groups - lists the groups composition in a landmark
+isolate - makes a person leave the current group, but not the landmark the person is currently on
+start - starts a new gossip
+gossip - share a gossip within the current group in the current landmark
+secrets - lists the gossip about a particular person
+infotainment - lists the gossips a particular person is aware of
+hottest - lists the most shared gossip
+help - shows the available commands
+exit - terminates the execution of the program
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+landmark - adds a new landmark to the community
+landmarks - displays the list of landmarks in the community
+forgetful - adds a forgetful person to the community
+gossiper - adds a gossiper person to the community
+sealed - adds a sealed lips person to the community
+people - lists all the persons in the community
+go - moves a person to a landmark, or home
+join - joins a person to a group
+groups - lists the groups composition in a landmark
+isolate - makes a person leave the current group, but not the landmark the person is currently on
+start - starts a new gossip
+gossip - share a gossip within the current group in the current landmark
+secrets - lists the gossip about a particular person
+infotainment - lists the gossips a particular person is aware of
+hottest - lists the most shared gossip
+help - shows the available commands
+exit - terminates the execution of the program
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+Unknown command. Type help to see available commands.
+landmark - adds a new landmark to the community
+landmarks - displays the list of landmarks in the community
+forgetful - adds a forgetful person to the community
+gossiper - adds a gossiper person to the community
+sealed - adds a sealed lips person to the community
+people - lists all the persons in the community
+go - moves a person to a landmark, or home
+join - joins a person to a group
+groups - lists the groups composition in a landmark
+isolate - makes a person leave the current group, but not the landmark the person is currently on
+start - starts a new gossip
+gossip - share a gossip within the current group in the current landmark
+secrets - lists the gossip about a particular person
+infotainment - lists the gossips a particular person is aware of
+hottest - lists the most shared gossip
+help - shows the available commands
+exit - terminates the execution of the program
+Bye!
